@@ -1,0 +1,10 @@
+You may directly assign a primitive a data type value to a wrapper object. This is called _______###Auto boxing
+How many package statements can be used in one java file?###One
+The JVM stores the array in an area memory called _______###Heap
+When you return an array from a method, the method returns _______###The reference of the array
+A method that is associated with an individual object is called _______###Instance method
+Variables that are shared by every instance of a class are _______###Class Variables
+Instance variables declared final do not or cannot _______###Be modified after they are initialized
+Object-oriented programming allows you to derive new classes from existing classes. This is called _______###Inheritance
+What class is used to write data into a text file?###PrintWriter
+What class is used to read data from a text file?###Scanner

@@ -1,4 +1,4 @@
-This is a project to make Flashcard
+This is a project to make Flashcard.
 Live Demo: https://youtu.be/KUOEFLFtyRU
 - Users are able to learn questions which already available in the application. 
 - User can click on the question to "flip" the flashcard to see the answer.
